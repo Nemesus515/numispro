@@ -31,12 +31,45 @@ Owner: NumisPro Team
 - Statistics
 
 ## Phase 5 — Marketplace
+
 - Buy & Sell
-- Auctions
 - Dealer accounts
+- Auctions
+- Secure transactions
+
+---
+
+## Phase 6 — Exchange Hub
+
+- Smart Exchange
+- TradeScore
+- Wishlist
+- Automatic matching
+- Multi-party exchange
+- Reputation
+- Exchange history
+- Notifications
+
+---
+
+## Phase 7 — Content Platform
+
+- News
+- Articles
+- Personal blogs
+- Coin guides
+- Reviews
+
+---
 
 ## Future
-- Mobile apps
+
+- Mobile applications
 - AI assistant
-- Coin recognition
+- AI coin recognition
+- Public API
 - Multi-language support
+- Clubs
+- Events
+
+
