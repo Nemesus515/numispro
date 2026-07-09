@@ -1,5 +1,5 @@
 # 🪙 NumisPro
-
+> Collect. Analyze. Share.
 > The modern platform for numismatists and collectors.
 
 ## Что такое NumisPro?
