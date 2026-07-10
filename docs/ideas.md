@@ -80,3 +80,14 @@
 - Collection QR code
 - Export to PDF
 - Export to Excel
+
+## Community Map
+
+- Collector map
+- Privacy levels
+- Local clubs
+- Coin shops
+- Numismatic events
+- Nearby collectors
+- Local exchange
+- Community statistics by region
